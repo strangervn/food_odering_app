@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "542369191042",
+    "firebase_url": "https://project-a4367-default-rtdb.firebaseio.com",
+    "project_id": "project-a4367",
+    "storage_bucket": "project-a4367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542369191042:android:4efadf2d09efb81bc1509b",
+        "android_client_info": {
+          "package_name": "cvngoc.hcmute.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542369191042-tv41241tu0oidmnqn4dsqv6hv269j3n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGlGsGDvr5XHVJdKjqd_0DYQ4ljSUnyYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542369191042-tv41241tu0oidmnqn4dsqv6hv269j3n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542369191042:android:241e3749fbf3a739c1509b",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.practice1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542369191042-tv41241tu0oidmnqn4dsqv6hv269j3n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGlGsGDvr5XHVJdKjqd_0DYQ4ljSUnyYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542369191042-tv41241tu0oidmnqn4dsqv6hv269j3n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542369191042:android:bc191d120eb3f1a2c1509b",
+        "android_client_info": {
+          "package_name": "hcmute.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542369191042-tv41241tu0oidmnqn4dsqv6hv269j3n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGlGsGDvr5XHVJdKjqd_0DYQ4ljSUnyYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542369191042-tv41241tu0oidmnqn4dsqv6hv269j3n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
